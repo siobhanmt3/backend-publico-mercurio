@@ -10,17 +10,12 @@ Esta es una API completamente funcional desarrollada para el proyecto de Tesis "
 
 Esta API está siendo consumida por una aplicación llamada Mercurio desarrollada con React Native
 
-## Contacto 📬
+## Contribuidor 💻
 
 ```
-    martinezsiobhan0@gmail.com
+    https://github.com/siobhanmt3
 ```
-```
-    theskit27@gmail.com
-```
-```
-    dmarterqz@gmail.com
-```
+
 
 ## Credenciales
 
